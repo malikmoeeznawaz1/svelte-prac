@@ -2,7 +2,7 @@
 
 This repository is created for practice and learning. It contains a small SvelteKit app wired with Tailwind CSS and several example routes/components to help you experiment with common SvelteKit concepts.
 
-Implemented concepts
+Implemented concepts:
 
 - SvelteKit routing and layouts
 	- Root layout in `src/routes/+layout.svelte` (app-level navbar + main)
